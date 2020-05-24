@@ -1,14 +1,14 @@
-LocalShopStore/node_modules/**/*
-LocalShopStore/.expo/*
-LocalShopStore/npm-debug.*
+node_modules/**/*
+.expo/*
+npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-LocalShopStore/web-build/
-LocalShopStore/web-report/
+web-build/
+web-report/
 
 # macOS
-LocalShopStore/.DS_Store
+.DS_Store
